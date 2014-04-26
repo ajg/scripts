@@ -1,10 +1,9 @@
 #!/bin/bash -eu
-
 #
-# Change the name and/or email of the author and/or committer of one or all commits within
-# one or all branches in a git repository.
+# Change the {name and/or email} of the {author and/or committer} of {one or
+# all commits} within {one or all branches} in the current git repository.
 #
-# Written by Alvaro J. Genial (http://alva.ro) based on Chris Johnsen's change-author.
+# Written by Alvaro J. Genial (http://alva.ro) based on Chris Johnsen's script.
 #
 # git-reattribute.sh [-a] [-c] [-f] [commit [branch [new-name [new-email]]]]
 #
